@@ -3,13 +3,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-[AI Primer](https://github.com/nitzansaar/AI_Primer)
-[Custom Shell](https://github.com/nitzansaar/Custom-Command-Line-Shell)
-[Movie Review Classifier](https://github.com/nitzansaar/Movie-Review-Classification)
-[Minimal Spanning Tree](https://github.com/nitzansaar/Minimal-Spanning-Tree)
-[Flight Ordered Dictionary](https://github.com/nitzansaar/Flight-Ordered-Dictionary)
-[Music Library](https://github.com/nitzansaar/Music-Library)
-[Email Spam Classifier](https://github.com/nitzansaar/Email-Spam-Classifier)
+- [AI Primer](https://github.com/nitzansaar/AI_Primer)
+- [Custom Shell](https://github.com/nitzansaar/Custom-Command-Line-Shell)
+- [Movie Review Classifier](https://github.com/nitzansaar/Movie-Review-Classification)
+- [Minimal Spanning Tree](https://github.com/nitzansaar/Minimal-Spanning-Tree)
+- [Flight Ordered Dictionary](https://github.com/nitzansaar/Flight-Ordered-Dictionary)
+- [Music Library](https://github.com/nitzansaar/Music-Library)
+- [Email Spam Classifier](https://github.com/nitzansaar/Email-Spam-Classifier)
 
 <h2> 🤳 Connect with me:</h2>
 
