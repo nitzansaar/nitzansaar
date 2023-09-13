@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-
-- [AI Primer Speech Chatbot](https://github.com/nitzansaar/AI_Primer)
+<div>
+  <p>Javascript</p>
+  - [AI Primer Speech Chatbot](https://github.com/nitzansaar/AI_Primer)
+</div>
 - [Custom Shell](https://github.com/nitzansaar/Custom-Command-Line-Shell)
 - [Movie Review Classifier](https://github.com/nitzansaar/Movie-Review-Classification)
 - [Minimal Spanning Tree](https://github.com/nitzansaar/Minimal-Spanning-Tree)
