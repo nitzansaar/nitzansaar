@@ -10,7 +10,7 @@
 - [Flight Ordered Dictionary](https://github.com/nitzansaar/Flight-Ordered-Dictionary)
 - [Music Library](https://github.com/nitzansaar/Music-Library)
 - [Email Spam Classifier](https://github.com/nitzansaar/Email-Spam-Classifier)
-- [Worlde](https://github.com/nitzansaar/Wordle)
+- [Wordle](https://github.com/nitzansaar/Wordle)
 - [Movie Review Sentiment Analyzer](https://github.com/nitzansaar/Movie-Review-Sentiment-Analyzer)
 - [Python Search Algorithms](https://github.com/nitzansaar/Search-Algorithms)
 - [Decision Tree](https://github.com/nitzansaar/Decision-Tree-and-Random-Forest-Implementation)
