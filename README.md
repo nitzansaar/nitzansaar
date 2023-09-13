@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nitzan! <br/><a href="https://github.com/nitzansaar">Programmer, Software Engineer</a></h1>
+<h1>Hi, I'm Nitzan! <br/><a href="https://github.com/nitzansaar">Computer Scientist, Software Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
