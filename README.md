@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>AI Primer(https://github.com/nitzansaar/AI_Primer)</b>
-  - [AI Primer](https://github.com/nitzansaar/AI_Primer)
+
+[AI Primer](https://github.com/nitzansaar/AI_Primer)
 
 <h2> 🤳 Connect with me:</h2>
 
